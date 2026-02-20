@@ -2,7 +2,7 @@
 
 Your AI-powered fitness companion for personalized workouts, nutrition, and health tracking.
 
-**By Jeeva**
+**By Jeevan Sidhardha Movva**
 
 ## Firebase (after rebranding)
 
