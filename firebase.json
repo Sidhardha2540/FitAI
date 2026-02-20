@@ -1,0 +1,26 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "myfitai-78e08",
+          "appId": "1:821526360592:android:6bfe7f3ff7b320608ad095",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "myfitai-78e08",
+          "configurations": {
+            "android": "1:821526360592:android:6bfe7f3ff7b320608ad095",
+            "ios": "1:821526360592:ios:e14d05e56f9f2b848ad095"
+          }
+        }
+      }
+    }
+  }
+}
